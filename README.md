@@ -1,2 +1,49 @@
 # Sales-VG-Project
 Focuses on analyzing sales data
+Sales VG Project – Data Analysis (Kaggle Dataset)
+
+Author: Deepa Vutharkar
+Project ID: DV-22887
+
+📊 Overview
+
+The Sales VG Project analyzes sales data from Kaggle to uncover patterns, trends, and business insights. The project demonstrates skills in data cleaning, exploratory data analysis (EDA), and visualization to support data-driven decision-making.
+
+🧰 Tools & Technologies
+
+Python, Pandas, NumPy – Data processing
+
+Matplotlib, Seaborn – Data visualization
+
+Power BI – Interactive dashboard creation
+
+🔍 Key Steps
+
+Cleaned and prepared data (handled missing values, removed duplicates).
+
+Conducted EDA to understand relationships between sales, profit, and regions.
+
+Built visualizations to show top-performing categories, seasonal sales, and profit trends.
+
+Designed a Power BI dashboard to summarize insights interactively.
+
+💡 Insights
+
+Peak sales during festive and holiday periods.
+
+Electronics and Apparel drive the highest revenue.
+
+Region X shows strong repeat purchase behavior.
+
+Marketing investments show a positive correlation with sales.
+
+▶️ How to Run
+
+Install Python libraries:
+
+pip install pandas numpy matplotlib seaborn
+
+
+Place Sales_Data.csv in the same folder as sales_analysis.py.
+
+Run the analysis:
