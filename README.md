@@ -27,6 +27,14 @@ Built visualizations to show top-performing categories, seasonal sales, and prof
 
 Designed a Power BI dashboard to summarize insights interactively.
 
+📊 Images
+Sales_Trends
+<img width="375" height="165" alt="Sale_trends" src="https://github.com/user-attachments/assets/84259ddf-3989-44e0-8156-1c55e18d5f4b" />
+
+
+correlation Heapmap
+<img width="303" height="228" alt="correl_heap_map" src="https://github.com/user-attachments/assets/55b43829-5c30-47ce-8814-99e703b4506f" />
+
 💡 Insights
 
 Peak sales during festive and holiday periods.
