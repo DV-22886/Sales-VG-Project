@@ -29,19 +29,19 @@ It demonstrates skills in **data cleaning, exploratory data analysis (EDA), visu
 ## 📈 Key Visualizations
 
 ### Seasonal Sales Trend
-![Sales Trends](images/sales_trends.png)  
+ 
 *Shows sales peaks across months, highlighting festive and holiday periods.*
 
 ### Power BI Dashboard Overview
-![Sales Analysis Dashboard](images/sales_analysis_dashboard.png)  
+  
 *Interactive dashboard summarizing top categories, regions, and revenue.*
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)  
+ 
 *Displays relationships between sales, profit, and marketing investments.*
 
 ### Product Sales Dashboard
-![Product Sales Dashboard](images/product_sales_dashboard.png)  
+ 
 *Highlights best-selling products and top-performing categories.*
 
 ---
@@ -67,16 +67,6 @@ Sales-VG-Project/
 └── product_sales_dashboard.png
 
 ---
-## 📁 Project Structure
-Sales-VG-Project/
-├── sales_analysis.ipynb # Jupyter Notebook
-├── README.md # Project description
-├── Sales_Data.csv # Dataset
-└── images/ # Screenshots
-├── sales_trends.png
-├── correlation_heatmap.png
-├── sales_analysis_dashboard.png
-└── product_sales_dashboard.png
 
 
 ▶️ How to Run
