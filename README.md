@@ -6,9 +6,8 @@
 ---
 
 ## 📊 Project Overview
-The Sales VG Project analyzes Kaggle sales data to uncover trends, patterns, and business insights.  
-The project demonstrates skills in **data cleaning, exploratory data analysis (EDA), visualization**, and **Power BI dashboarding** for interactive analysis.  
-It is designed to provide actionable insights for sales strategy and business decision-making.
+The Sales VG Project analyzes Kaggle sales data to uncover patterns, trends, and business insights.  
+It demonstrates skills in **data cleaning, exploratory data analysis (EDA), visualization**, and **Power BI dashboarding** for interactive business insights.
 
 ---
 
@@ -17,30 +16,33 @@ It is designed to provide actionable insights for sales strategy and business de
 - **Matplotlib, Seaborn**: Data visualization  
 - **Power BI**: Interactive dashboards  
 
-**Skills Demonstrated:** EDA, data cleaning, correlation analysis, visualization, reporting, and dashboard creation.
-
 ---
 
 ## 🔍 Analysis Workflow
-1. Data cleaning: handled missing values and removed duplicates  
-2. Exploratory Data Analysis (EDA) to explore sales, profit, and regional trends  
-3. Visualizations: top-performing categories, seasonal sales, and profit trends  
-4. Power BI dashboard: interactive summary of key insights  
+1. Cleaned and prepared data: handled missing values and removed duplicates  
+2. Conducted EDA to explore sales, profit, and regional trends  
+3. Created visualizations: top-performing categories, seasonal sales trends, and profit trends  
+4. Built a Power BI dashboard for an interactive summary of insights  
 
 ---
-📊 **Visualisations**
 
-**Sales_Trends**
-<img width="375" height="165" alt="Sale_trends" src="https://github.com/user-attachments/assets/84259ddf-3989-44e0-8156-1c55e18d5f4b" />
+## 📈 Key Visualizations
 
-**Sales_Anaylsis_Dashboard**
-<img width="854" height="472" alt="Sales_Anaylsis_Dashboard" src="https://github.com/user-attachments/assets/6b57db6d-ec4e-469f-9fa6-bd88e0404c1d" />
+### Seasonal Sales Trend
+![Sales Trends](images/sales_trends.png)  
+*Shows sales peaks across months, highlighting festive and holiday periods.*
 
-**correlation Heapmap**
-<img width="303" height="228" alt="correl_heap_map" src="https://github.com/user-attachments/assets/55b43829-5c30-47ce-8814-99e703b4506f" />
+### Power BI Dashboard Overview
+![Sales Analysis Dashboard](images/sales_analysis_dashboard.png)  
+*Interactive dashboard summarizing top categories, regions, and revenue.*
 
-**product_sales_Dashboard**
-<img width="875" height="478" alt="product_sales_Dashboard" src="https://github.com/user-attachments/assets/8a93db87-9508-492d-98a4-cf5aaa443f74" />
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)  
+*Displays relationships between sales, profit, and marketing investments.*
+
+### Product Sales Dashboard
+![Product Sales Dashboard](images/product_sales_dashboard.png)  
+*Highlights best-selling products and top-performing categories.*
 
 ---
 
@@ -49,6 +51,20 @@ It is designed to provide actionable insights for sales strategy and business de
 - Electronics and Apparel generate the highest revenue  
 - Region X shows strong repeat purchase behavior  
 - Marketing investments positively correlate with sales  
+
+---
+
+## 📁 Project Structure
+Sales-VG-Project/
+├── VG_SALES.ipynb # Jupyter Notebook with analysis
+├── README.md # Project description
+├── vgsales.xls # Raw dataset
+├── Sales_VG.pbix # Power BI dashboard
+└── images/ # Screenshots / visualizations
+├── sales_trends.png
+├── sales_analysis_dashboard.png
+├── correlation_heatmap.png
+└── product_sales_dashboard.png
 
 ---
 ## 📁 Project Structure
