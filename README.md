@@ -29,20 +29,25 @@ It demonstrates skills in **data cleaning, exploratory data analysis (EDA), visu
 ## 📈 Key Visualizations
 
 ### Seasonal Sales Trend
- 
+ <img width="375" height="165" alt="Sale_trends" src="https://github.com/user-attachments/assets/706103b9-e03f-4225-9089-22b0ba07cfd2" />
+
 *Shows sales peaks across months, highlighting festive and holiday periods.*
 
 ### Power BI Dashboard Overview
-  
+  <img width="875" height="478" alt="product_sales_Dashboard" src="https://github.com/user-attachments/assets/9585f5cf-c4ec-4c91-a0b8-73f5d021d983" />
+
 *Interactive dashboard summarizing top categories, regions, and revenue.*
 
 ### Correlation Heatmap
- 
+ <img width="303" height="228" alt="correlation" src="https://github.com/user-attachments/assets/7f6c04f3-5b56-471e-aa71-3da3ace10a63" />
+
 *Displays relationships between sales, profit, and marketing investments.*
 
 ### Product Sales Dashboard
  
 *Highlights best-selling products and top-performing categories.*
+<img width="854" height="472" alt="Sales_Anaylsis_Dashboard" src="https://github.com/user-attachments/assets/bd257c36-e542-4498-85a0-8ed39147f989" />
+
 
 ---
 
