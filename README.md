@@ -1,33 +1,33 @@
-# Sales-VG-Project
-Focuses on analyzing sales data
-Sales VG Project – Data Analysis (Kaggle Dataset)
+# Sales VG Data Analysis 📈
 
-Author: Deepa Vutharkar
-Project ID: DV-22887
+**Project ID:** DV-22887  
+**Author:** Deepa Vutharkar  
 
-📊 Overview
+---
 
-The Sales VG Project analyzes sales data from Kaggle to uncover patterns, trends, and business insights. The project demonstrates skills in data cleaning, exploratory data analysis (EDA), and visualization to support data-driven decision-making.
+## 📊 Project Overview
+The Sales VG Project analyzes Kaggle sales data to uncover trends, patterns, and business insights.  
+The project demonstrates skills in **data cleaning, exploratory data analysis (EDA), visualization**, and **Power BI dashboarding** for interactive analysis.  
+It is designed to provide actionable insights for sales strategy and business decision-making.
 
+---
 
-🧰 Tools & Technologies
+## 🧰 Tools & Technologies
+- **Python 3.x**: Pandas, NumPy (data processing)  
+- **Matplotlib, Seaborn**: Data visualization  
+- **Power BI**: Interactive dashboards  
 
-Python, Pandas, NumPy – Data processing
+**Skills Demonstrated:** EDA, data cleaning, correlation analysis, visualization, reporting, and dashboard creation.
 
-Matplotlib, Seaborn – Data visualization
+---
 
-Power BI – Interactive dashboard creation
+## 🔍 Analysis Workflow
+1. Data cleaning: handled missing values and removed duplicates  
+2. Exploratory Data Analysis (EDA) to explore sales, profit, and regional trends  
+3. Visualizations: top-performing categories, seasonal sales, and profit trends  
+4. Power BI dashboard: interactive summary of key insights  
 
-🔍 Key Steps
-
-Cleaned and prepared data (handled missing values, removed duplicates).
-
-Conducted EDA to understand relationships between sales, profit, and regions.
-
-Built visualizations to show top-performing categories, seasonal sales, and profit trends.
-
-Designed a Power BI dashboard to summarize insights interactively.
-
+---
 📊 **Visualisations**
 
 **Sales_Trends**
@@ -42,27 +42,25 @@ Designed a Power BI dashboard to summarize insights interactively.
 **product_sales_Dashboard**
 <img width="875" height="478" alt="product_sales_Dashboard" src="https://github.com/user-attachments/assets/8a93db87-9508-492d-98a4-cf5aaa443f74" />
 
+---
 
-**💡 Insights**
+## 💡 Insights
+- Peak sales occur during festive and holiday periods  
+- Electronics and Apparel generate the highest revenue  
+- Region X shows strong repeat purchase behavior  
+- Marketing investments positively correlate with sales  
 
-Peak sales during festive and holiday periods.
-
-Electronics and Apparel drive the highest revenue.
-
-Region X shows strong repeat purchase behavior.
-
-Marketing investments show a positive correlation with sales.
-
+---
 ## 📁 Project Structure
 Sales-VG-Project/
-├── sales_analysis.ipynb           # Jupyter Notebook
-├── README.md                      # Project description
-├── Sales_Data.csv                 # Dataset
-└── images/                        # Screenshots
-    ├── sales_trends.png
-    ├── sales_analysis_dashboard.png
-    ├── correlation_heatmap.png
-    └── product_sales_dashboard.png
+├── sales_analysis.ipynb # Jupyter Notebook
+├── README.md # Project description
+├── Sales_Data.csv # Dataset
+└── images/ # Screenshots
+├── sales_trends.png
+├── correlation_heatmap.png
+├── sales_analysis_dashboard.png
+└── product_sales_dashboard.png
 
 
 ▶️ How to Run
